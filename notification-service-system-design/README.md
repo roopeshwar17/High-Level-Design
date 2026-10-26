@@ -513,4 +513,3 @@ The senior-level distinction is to explain **what happens when an operation fail
 - `README.md` — the complete interview notes.
 - `images/notification-service-architecture.png` — architecture diagram optimized for viewing in GitHub.
 - `images/notification-service-architecture.svg` — scalable vector version of the diagram.
-- `diagrams/build_diagram.py` — script used to regenerate the diagram (requires Python and CairoSVG).
